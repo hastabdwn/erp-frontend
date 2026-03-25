@@ -97,10 +97,6 @@ export default function LoginPage() {
             </button>
           </form>
         </div>
-
-        <p className="text-center text-surface-600 text-xs mt-6">
-          ERP System v1.0 · Node.js + PostgreSQL
-        </p>
       </div>
     </div>
   )
